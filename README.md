@@ -1,16 +1,33 @@
-## Hi there 👋
+# hi!
 
-<!--
-**edonamulaj0/edonamulaj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a software developer based in Prishtina, Kosovo.
+i study ICT & network engineering, i build things under [cyphera](https://cyphera.tech),
+and i'm especially interested in cybersecurity and how systems break.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**things i'm working on**
+
+- [atheneum]() — an ai study tool i've been building for a while
+- [h4ck&stack](https://h4cknstack.com) — a small community for developers, designers and security folks
+- [e-studenti](https://github.com/edonamulaj0/e-studenti) — open-source resource hub used by students at my university
+
+---
+
+**some context**
+
+- finishing my degree in june 2026
+- won a regional hackathon (junctionx kosovo) and placed 1st at mashti 2025
+- got a paper accepted to mipro 2026
+- did red teaming and incident response training through developher x luxdev
+- run a software company called Cyphera with a small team
+
+---
+
+**mostly working with**
+
+typescript, remix, next.js, cloudflare, tailwind
+
+---
+
+find me on [linkedin](https://linkedin.com/in/edona-mulaj) or on discord (@donaspodon) :)
