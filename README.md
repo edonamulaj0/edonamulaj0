@@ -17,9 +17,8 @@ and i'm especially interested in cybersecurity and how systems break.
 **some context**
 
 - finishing my degree in june 2026
-- won a regional hackathon (junctionx kosovo) and placed 1st at mashti 2025
-- got a paper accepted to mipro 2026
-- did red teaming and incident response training through developher x luxdev
+- got a paper accepted to MIPRO 2026
+- did six months of cybersecurity training through developher x luxdev at ICK
 - run a software company called Cyphera with a small team
 
 ---
