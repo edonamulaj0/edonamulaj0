@@ -8,15 +8,15 @@ and i'm especially interested in cybersecurity and how systems break.
 
 **things i'm working on**
 
-- [atheneum]() — an ai study tool i've been building for a while
-- [h4ck&stack](https://h4cknstack.com) — a small community for developers, designers and security folks
+- [atheneum](https://atheneum.app/) — an ai study tool i've been building for a while
+- [literas](https://literas.app) — an LMS platform i've deployed to a university in France (:P)
 - [e-studenti](https://github.com/edonamulaj0/e-studenti) — open-source resource hub used by students at my university
 
 ---
 
 **some context**
 
-- finishing my degree in june 2026
+- finishing my degree in july 2026
 - got a paper accepted to MIPRO 2026
 - did six months of cybersecurity training through developher x luxdev at ICK
 - run a software company called Cyphera with a small team
